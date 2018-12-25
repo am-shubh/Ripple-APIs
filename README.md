@@ -14,3 +14,6 @@ Two Routes for APIs are created:
 
     Method to Perform Transaction from source Address to Destination.
     MEthod to Fetch Transaction History of Particular Address and then displaying it in Proper format.
+ 
+Clone this Repo and run npm install
+Run node server in the terminal
